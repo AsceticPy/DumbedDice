@@ -33,7 +33,7 @@ def launch_dice(input: str) -> int:
 			return 0
 
 os.system('cls' if os.name == 'nt' else 'clear')
-print('Hello and welcome to a boring dice project (not a project)')
+print('Hello and welcome to a boring dice project (not a project just a script)')
 
 while True:
 	print('Launch dice ? (0 to exit)', end=' ')
